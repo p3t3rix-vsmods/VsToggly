@@ -1,6 +1,9 @@
 ﻿using System;
 using Vintagestory.API.Common;
 
+/// <summary>
+/// copied from foundation mod to avoid conflicts and reduce dependencies 
+/// </summary>
 namespace Foundation.Util.Extensions
 {
     public static class ConfigExtensions
