@@ -7,6 +7,7 @@
   "description": "Clientside mod that allows to toggle mouse buttons.",
   "version": "1.0.1",
   "dependency": {
-    "game": ""
+    "game": "",
+    "foundation" :  "1.1" 
   }
 }
